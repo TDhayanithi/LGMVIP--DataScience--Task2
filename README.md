@@ -8,4 +8,3 @@ Through visualizations, statistical summaries, and data manipulation techniques,
 The project aimed to provide valuable insights to stakeholders, security agencies, or policymakers, enabling them to make informed decisions and develop strategies to combat terrorism effectively.
 
 By conducting thorough EDA, we gained a comprehensive understanding of the terrorism dataset, identified significant patterns and trends, and provided actionable insights to support decision-making processes in addressing this critical issue.
-# Conclusion:
